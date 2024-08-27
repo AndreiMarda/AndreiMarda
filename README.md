@@ -1,6 +1,15 @@
 Hi 👋 My name is Andrei Mardaloescu
-===================================Student that learns for becoming a backend developer----------------------------------------------------After I got my degree in Telecommunication engineering, I decided that I wanted to study more about algorithms, data structures, and machine learning and to become better day by day, in any direction that is possible. That's one reason why I decided to attend a Master's degree in Signal and Image Processing taught in French. Currently, I'm working on different small projects, every day.* 🌍  I'm based in Cluj-Napoca* ✉️  You can contact me at [andreimardaloescu@gmail.com](mailto:andreimardaloescu@gmail.com)* 🧠  I'm learning Machine Learning, Algorithm* 🤝  I'm open to collaborating on Projects
+===================================
 
+Student that learns for becoming a backend developer
+----------------------------------------------------
+
+After I got my degree in Telecommunication engineering, I decided that I wanted to study more about algorithms, data structures, and machine learning and to become better day by day, in any direction that is possible. That's one reason why I decided to attend a Master's degree in Signal and Image Processing taught in French. Currently, I'm working on different small projects, every day.
+
+*   🌍  I'm based in Cluj-Napoca
+*   ✉️  You can contact me at [andreimardaloescu@gmail.com](mailto:andreimardaloescu@gmail.com)
+*   🧠  I'm learning Machine Learning, Algorithm
+*   🤝  I'm open to collaborating on Projects
 ### Skills
 
 
